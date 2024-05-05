@@ -3,4 +3,5 @@ get the text that   contains the lorem eget in the given
 
 ```rust
 print("hello world")
+print("hi")
 ```
